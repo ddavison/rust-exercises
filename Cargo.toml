@@ -1,0 +1,9 @@
+[package]
+name = "exercises"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+#chrono = "0.4.38"
+#read_input = "0.8.6"
+#inquire = "0.7.5"
