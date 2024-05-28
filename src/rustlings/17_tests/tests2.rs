@@ -12,6 +12,7 @@
 mod tests {
     #[test]
     fn you_can_assert_eq() {
-        assert_eq!();
+        assert_eq!(true, true); // Make the test pass!
+        // assert_eq!(true, false); // Make the test fail!
     }
 }
